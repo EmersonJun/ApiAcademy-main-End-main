@@ -159,3 +159,4 @@ C:\Users\eminh\Downloads\ApiAcademy-main-End-main\ApiAcademy-main-End-main\obj\D
 C:\Users\eminh\Downloads\ApiAcademy-main-End-main\ApiAcademy-main-End-main\obj\Debug\net9.0\ApiAcademy.genruntimeconfig.cache
 C:\Users\eminh\Downloads\ApiAcademy-main-End-main\ApiAcademy-main-End-main\obj\Debug\net9.0\ref\ApiAcademy.dll
 C:\Users\eminh\Downloads\ApiAcademy-main-End-main\ApiAcademy-main-End-main\obj\Debug\net9.0\compressed\zezlejypsr-71fkil71uo.gz
+C:\Users\eminh\Downloads\ApiAcademy-main-End-main\ApiAcademy-main-End-main\obj\Debug\net9.0\ApiAcademy.sourcelink.json
