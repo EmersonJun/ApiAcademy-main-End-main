@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nRNTTd1mTx0=",
+  "dgSpecHash": "JhG8pd9YkuM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\eminh\\Downloads\\ApiAcademy-main-End-main\\ApiAcademy-main-End-main\\ApiAcademy.csproj",
+  "projectFilePath": "C:\\Users\\eminh\\Documents\\Programacao\\VsCode\\C#\\ApiAcademy-main-End-main\\ApiAcademy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eminh\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\eminh\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

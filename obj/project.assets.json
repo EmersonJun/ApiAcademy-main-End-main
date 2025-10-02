@@ -3529,11 +3529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eminh\\Downloads\\ApiAcademy-main-End-main\\ApiAcademy-main-End-main\\ApiAcademy.csproj",
+      "projectUniqueName": "C:\\Users\\eminh\\Documents\\Programacao\\VsCode\\C#\\ApiAcademy-main-End-main\\ApiAcademy.csproj",
       "projectName": "ApiAcademy",
-      "projectPath": "C:\\Users\\eminh\\Downloads\\ApiAcademy-main-End-main\\ApiAcademy-main-End-main\\ApiAcademy.csproj",
+      "projectPath": "C:\\Users\\eminh\\Documents\\Programacao\\VsCode\\C#\\ApiAcademy-main-End-main\\ApiAcademy.csproj",
       "packagesPath": "C:\\Users\\eminh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eminh\\Downloads\\ApiAcademy-main-End-main\\ApiAcademy-main-End-main\\obj\\",
+      "outputPath": "C:\\Users\\eminh\\Documents\\Programacao\\VsCode\\C#\\ApiAcademy-main-End-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eminh\\AppData\\Roaming\\NuGet\\NuGet.Config"
