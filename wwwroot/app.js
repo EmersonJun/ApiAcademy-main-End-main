@@ -31,7 +31,8 @@ async function cadastrarEquipamento(equipamento) {
     body: JSON.stringify(equipamento)
   });
   alert('Equipamento cadastrado!');
-  window.location.href = 'index.html';
+  window.location.href = '/EquipamentosView/Index';
+
 }
 
 async function gerarRelatorio() {

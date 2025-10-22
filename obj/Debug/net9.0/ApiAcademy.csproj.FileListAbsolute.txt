@@ -302,15 +302,13 @@ C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debu
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\ApiAcademy.csproj.CoreCompileInputs.cache
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\ApiAcademy.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\ApiAcademy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\ApiAcademy.RazorAssemblyInfo.cache
+C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\ApiAcademy.RazorAssemblyInfo.cs
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\ApiAcademy.sourcelink.json
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\scopedcss\bundle\ApiAcademy.styles.css
-C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\compressed\riv2nrzd7b-h7j0g4lo1x.gz
-C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\compressed\yil6fb9tc6-xkxrt4bpfa.gz
-C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\compressed\gu7gorr3fk-2wt3cfk4fw.gz
-C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\compressed\vvg2jvj80o-unmup9v0w6.gz
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\compressed\zezlejypsr-pv145vx8qg.gz
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\staticwebassets.build.json.cache
@@ -322,3 +320,4 @@ C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debu
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\ApiAcademy.pdb
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\ApiAcademy.genruntimeconfig.cache
 C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\ref\ApiAcademy.dll
+C:\Users\eminh\Documents\Programacao\VsCode\C#\ApiAcademy-main-End-main\obj\Debug\net9.0\compressed\riv2nrzd7b-rjwndooeye.gz

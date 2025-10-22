@@ -1,3 +1,5 @@
+using System;
+
 namespace EquipamentosApi.Models
 {
     public class Equipamento

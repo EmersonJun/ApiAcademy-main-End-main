@@ -1,6 +1,7 @@
-using EquipamentosApi.Models;
+using System.Collections.Generic;
+using System.Linq;
 using EquipamentosApi.Data;
-using Microsoft.EntityFrameworkCore;
+using EquipamentosApi.Models;
 
 namespace EquipamentosApi.Services
 {
